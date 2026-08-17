@@ -206,6 +206,10 @@ Repositories are categorized by their `updated_at` date:
 - [ ] Implement PWA capabilities
 - [ ] Add unit and integration tests
 
+# 👨‍💻 Authors
+- ***☝ ABDUL SABOOR ☝***
+  ---
+
 ## 📝 License
 
 This project is open source and available under the MIT License.
@@ -219,5 +223,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For issues, questions, or suggestions, please open an issue on the GitHub repository.
 
 ---
+
+## MADE WITH 💖
+
+# NOTE: 
+## This Project is for educational purpose only............
+
 
 **Note**: This application uses the GitHub REST API and is subject to GitHub's terms of service and API usage policies. Please use responsibly and respect rate limits.
